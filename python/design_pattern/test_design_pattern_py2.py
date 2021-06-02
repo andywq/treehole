@@ -1,8 +1,8 @@
 import unittest
 
-import singleton
-import factory
-import observer
+from . import singleton
+from . import factory
+from . import observer
 
 class TestDesignPattern(unittest.TestCase):
     def test_singleton(self):
