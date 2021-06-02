@@ -1,0 +1,5 @@
+# vim swap
+[._]*.sw[a-p]
+
+# Persistent undo
+[._]*.un~
